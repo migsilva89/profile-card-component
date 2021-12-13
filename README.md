@@ -1,5 +1,10 @@
 #Profile card component
 
+## Screenshot
+
+![alt text](./img.png)
+
+
 Tailwind pratice.
 
 Design and requests provided by: https://www.frontendmentor.io/ 
